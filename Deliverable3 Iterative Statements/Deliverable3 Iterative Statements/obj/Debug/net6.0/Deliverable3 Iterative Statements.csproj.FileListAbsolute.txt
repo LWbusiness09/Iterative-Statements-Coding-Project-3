@@ -1,0 +1,15 @@
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\bin\Debug\net6.0\Deliverable3 Iterative Statements.exe
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\bin\Debug\net6.0\Deliverable3 Iterative Statements.deps.json
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\bin\Debug\net6.0\Deliverable3 Iterative Statements.runtimeconfig.json
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\bin\Debug\net6.0\Deliverable3 Iterative Statements.dll
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\bin\Debug\net6.0\Deliverable3 Iterative Statements.pdb
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.csproj.AssemblyReference.cache
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.AssemblyInfoInputs.cache
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.AssemblyInfo.cs
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.csproj.CoreCompileInputs.cache
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.dll
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\refint\Deliverable3 Iterative Statements.dll
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.pdb
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\Deliverable3 Iterative Statements.genruntimeconfig.cache
+C:\Users\Lswer\Documents\College Work\Deliverable 3\Deliverable3 Iterative Statements\Deliverable3 Iterative Statements\obj\Debug\net6.0\ref\Deliverable3 Iterative Statements.dll
